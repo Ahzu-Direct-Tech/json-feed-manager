@@ -14,19 +14,19 @@ The JSON Feed Manager for Roku Direct Publisher is a software tool that helps cr
 # Installation
 Please download the setup file from the latest release.
 
-[![Generic badge](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/rrirower/mrss-feed-manager/releases/latest)
+[![Generic badge](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/rrirower/json-feed-manager/releases/latest)
 
 # Support
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 Software support is available by submitting an "issue".  Please attach any files that may help demonstrate the "issue".
 
-[![Generic badge](https://img.shields.io/badge/Issues-New-green.svg)](https://github.com/rrirower/mrss-feed-manager/issues/new)
+[![Generic badge](https://img.shields.io/badge/Issues-New-green.svg)](https://github.com/rrirower/json-feed-manager/issues/new)
 
 # License
 Please read the license before using the software.
 
-[![Generic badge](https://img.shields.io/badge/License-EULA-blue.svg)](https://github.com/rrirower/mrss-feed-manager/blob/master/LICENSE.md)
+[![Generic badge](https://img.shields.io/badge/License-EULA-blue.svg)](https://github.com/rrirower/json-feed-manager/blob/master/LICENSE.md)
 
 # Author
 Michael Harnad
