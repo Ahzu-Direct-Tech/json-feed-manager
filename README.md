@@ -1,4 +1,4 @@
-![JSON Feed Manager for Roku Direct Publisher]
+![JSON Feed Manager for Roku Direct Publisher](json 120 x 120.png)
 # JSON Feed Manager for Roku Direct Publisher
 The JSON Feed Manager for Roku Direct Publisher is a software tool that helps create and manage your Roku Direct Publisher [JSON feed](https://developer.roku.com/docs/specs/direct-publisher-feed-specs/json-dp-spec.md) file.  Using this tool will allow you to spend less time worrying about the syntactical correctness of your feed file and more time developing your video content.
 
