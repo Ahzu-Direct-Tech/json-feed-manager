@@ -13,7 +13,7 @@ The JSON Feed Manager for Roku Direct Publisher is a software tool that helps cr
 * Minimum screen resolution: 1366 X 768.
 
 # Installation
-Please download the setup file from the latest release.
+Please download the setup zip file from the latest release.  Unzip the file and run the installer.
 
 [![Generic badge](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/rrirower/json-feed-manager/releases/latest)
 
