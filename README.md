@@ -15,6 +15,8 @@ The JSON Feed Manager for Roku Direct Publisher is a software tool that helps cr
 # Installation
 Please download the setup file from the latest release.
 
+**NOTE**: The installer requires permission to create folders on your pc for the software to work.  Please allow the installer to create these folders.  Failure to do so will result in a software failure.
+
 [![Generic badge](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/rrirower/json-feed-manager/releases/latest)
 
 # Support
