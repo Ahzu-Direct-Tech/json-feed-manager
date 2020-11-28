@@ -9,7 +9,7 @@ The JSON Feed Manager for Roku Direct Publisher is a software tool that helps cr
 # Prerequisites
 * 64 Bit Windows: 8, 10.
 * .Net Framework 4.7.1
-* 90MB Free Disk Space.
+* 96MB Free Disk Space.
 * Minimum screen resolution: 1366 X 768.
 * Windows Media player.
 
